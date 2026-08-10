@@ -1,0 +1,208 @@
+{
+  "id": "2026-08-07-160910",
+  "generated_at": "2026-08-07T08:09:10.5590823Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-lan-ai-bian-ma-dai-li-de-wan-zheng-kai-fa-fang-fa-lun",
+      "title": "项目概览：AI 编码代理的完整开发方法论",
+      "file": "1-xiang-mu-gai-lan-ai-bian-ma-dai-li-de-wan-zheng-kai-fa-fang-fa-lun.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-an-zhuang-yu-ge-ping-tai-jie-ru-zhi-nan",
+      "title": "快速安装与各平台接入指南",
+      "file": "2-kuai-su-an-zhuang-yu-ge-ping-tai-jie-ru-zhi-nan.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-he-xin-gong-zuo-liu-cong-gou-si-dao-jiao-fu-de-qi-bu-liu-cheng",
+      "title": "核心工作流：从构思到交付的七步流程",
+      "file": "3-he-xin-gong-zuo-liu-cong-gou-si-dao-jiao-fu-de-qi-bu-liu-cheng.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-she-ji-zhe-xue-tdd-xi-tong-hua-yu-zheng-ju-you-xian",
+      "title": "设计哲学：TDD、系统化与证据优先",
+      "file": "4-she-ji-zhe-xue-tdd-xi-tong-hua-yu-zheng-ju-you-xian.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-ji-neng-skill-ji-zhi-zi-dong-hong-fa-yu-xing-wei-su-zao-yuan-li",
+      "title": "技能（Skill）机制：自动触发与行为塑造原理",
+      "file": "5-ji-neng-skill-ji-zhi-zi-dong-hong-fa-yu-xing-wei-su-zao-yuan-li.md",
+      "section": "深入理解技能系统",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-tou-nao-feng-bao-su-ge-la-di-shi-xie-zuo-she-ji",
+      "title": "头脑风暴：苏格拉底式协作设计",
+      "file": "6-tou-nao-feng-bao-su-ge-la-di-shi-xie-zuo-she-ji.md",
+      "section": "深入理解技能系统",
+      "group": "设计与规划技能",
+      "level": "Beginner"
+    },
+    {
+      "slug": "7-bian-xie-shi-xian-ji-hua-ling-shang-xia-wen-gong-cheng-shi-zhi-nan",
+      "title": "编写实现计划：零上下文工程师指南",
+      "file": "7-bian-xie-shi-xian-ji-hua-ling-shang-xia-wen-gong-cheng-shi-zhi-nan.md",
+      "section": "深入理解技能系统",
+      "group": "设计与规划技能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-ke-shi-hua-ban-lu-liu-lan-qi-duan-yuan-xing-yu-tu-biao-xie-zuo",
+      "title": "可视化伴侣：浏览器端原型与图表协作",
+      "file": "8-ke-shi-hua-ban-lu-liu-lan-qi-duan-yuan-xing-yu-tu-biao-xie-zuo.md",
+      "section": "深入理解技能系统",
+      "group": "设计与规划技能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-zi-dai-li-qu-dong-kai-fa-ren-wu-fen-pai-liang-jie-duan-shen-cha-yu-xiu-fu-xun-huan",
+      "title": "子代理驱动开发：任务分派、两阶段审查与修复循环",
+      "file": "9-zi-dai-li-qu-dong-kai-fa-ren-wu-fen-pai-liang-jie-duan-shen-cha-yu-xiu-fu-xun-huan.md",
+      "section": "深入理解技能系统",
+      "group": "执行与开发技能",
+      "level": "Advanced"
+    },
+    {
+      "slug": "10-ji-hua-zhi-xing-pi-liang-ren-wu-yu-ren-gong-jian-cha-dian",
+      "title": "计划执行：批量任务与人工检查点",
+      "file": "10-ji-hua-zhi-xing-pi-liang-ren-wu-yu-ren-gong-jian-cha-dian.md",
+      "section": "深入理解技能系统",
+      "group": "执行与开发技能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-bing-xing-dai-li-diao-du-du-li-wen-ti-yu-de-bing-fa-chu-li",
+      "title": "并行代理调度：独立问题域的并发处理",
+      "file": "11-bing-xing-dai-li-diao-du-du-li-wen-ti-yu-de-bing-fa-chu-li.md",
+      "section": "深入理解技能系统",
+      "group": "执行与开发技能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-ce-shi-qu-dong-kai-fa-red-green-refactor-tie-lu",
+      "title": "测试驱动开发：RED-GREEN-REFACTOR 铁律",
+      "file": "12-ce-shi-qu-dong-kai-fa-red-green-refactor-tie-lu.md",
+      "section": "深入理解技能系统",
+      "group": "执行与开发技能",
+      "level": "Beginner"
+    },
+    {
+      "slug": "13-xi-tong-hua-diao-shi-si-jie-duan-gen-yin-fen-xi-fa",
+      "title": "系统化调试：四阶段根因分析法",
+      "file": "13-xi-tong-hua-diao-shi-si-jie-duan-gen-yin-fen-xi-fa.md",
+      "section": "深入理解技能系统",
+      "group": "质量保障技能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-dai-ma-shen-cha-qing-qiu-yu-jie-shou-ji-zhu-yan-jin-xing-you-xian",
+      "title": "代码审查请求与接收：技术严谨性优先",
+      "file": "14-dai-ma-shen-cha-qing-qiu-yu-jie-shou-ji-zhu-yan-jin-xing-you-xian.md",
+      "section": "深入理解技能系统",
+      "group": "质量保障技能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-wan-cheng-qian-yan-zheng-zheng-ju-xian-yu-duan-yan",
+      "title": "完成前验证：证据先于断言",
+      "file": "15-wan-cheng-qian-yan-zheng-zheng-ju-xian-yu-duan-yan.md",
+      "section": "深入理解技能系统",
+      "group": "质量保障技能",
+      "level": "Beginner"
+    },
+    {
+      "slug": "16-git-worktree-ge-chi-gong-zuo-qu-jian-ce-chuang-jian-yu-qing-li",
+      "title": "Git Worktree 隔离工作区：检测、创建与清理",
+      "file": "16-git-worktree-ge-chi-gong-zuo-qu-jian-ce-chuang-jian-yu-qing-li.md",
+      "section": "深入理解技能系统",
+      "group": "分支管理与收尾",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-kai-fa-fen-zhi-shou-wei-he-bing-pr-yu-qing-li-jue-ce-liu",
+      "title": "开发分支收尾：合并、PR 与清理决策流",
+      "file": "17-kai-fa-fen-zhi-shou-wei-he-bing-pr-yu-qing-li-jue-ce-liu.md",
+      "section": "深入理解技能系统",
+      "group": "分支管理与收尾",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-kua-ping-tai-jia-gou-ji-neng-gong-ju-ying-she-yu-yin-dao-zhu-ru-san-ceng-mo-xing",
+      "title": "跨平台架构：技能、工具映射与引导注入三层模型",
+      "file": "18-kua-ping-tai-jia-gou-ji-neng-gong-ju-ying-she-yu-yin-dao-zhu-ru-san-ceng-mo-xing.md",
+      "section": "多平台适配架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "19-yin-dao-zhu-ru-ji-zhi-sessionstart-hook-yu-xiao-xi-bian-huan",
+      "title": "引导注入机制：SessionStart Hook 与消息变换",
+      "file": "19-yin-dao-zhu-ru-ji-zhi-sessionstart-hook-yu-xiao-xi-bian-huan.md",
+      "section": "多平台适配架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-yi-zhi-dao-xin-ping-tai-ji-cheng-xing-zhuang-xuan-ze-yu-yan-shou-ce-shi",
+      "title": "移植到新平台：集成形状选择与验收测试",
+      "file": "20-yi-zhi-dao-xin-ping-tai-ji-cheng-xing-zhuang-xuan-ze-yu-yan-shou-ce-shi.md",
+      "section": "多平台适配架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "21-ge-ping-tai-cha-jian-qing-dan-yu-an-zhuang-ji-zhi-dui-zhao",
+      "title": "各平台插件清单与安装机制对照",
+      "file": "21-ge-ping-tai-cha-jian-qing-dan-yu-an-zhuang-ji-zhi-dui-zhao.md",
+      "section": "多平台适配架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-bian-xie-xin-ji-neng-jiang-tdd-ying-yong-yu-guo-cheng-wen-dang",
+      "title": "编写新技能：将 TDD 应用于过程文档",
+      "file": "22-bian-xie-xin-ji-neng-jiang-tdd-ying-yong-yu-guo-cheng-wen-dang.md",
+      "section": "技能编写与测试",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-ji-neng-fa-xian-you-hua-miao-shu-zi-duan-yu-hong-fa-tiao-jian-she-ji",
+      "title": "技能发现优化：描述字段与触发条件设计",
+      "file": "23-ji-neng-fa-xian-you-hua-miao-shu-zi-duan-yu-hong-fa-tiao-jian-she-ji.md",
+      "section": "技能编写与测试",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-ji-neng-ya-li-ce-shi-dui-kang-xing-chang-jing-yu-zi-dai-li-yan-zheng",
+      "title": "技能压力测试：对抗性场景与子代理验证",
+      "file": "24-ji-neng-ya-li-ce-shi-dui-kang-xing-chang-jing-yu-zi-dai-li-yan-zheng.md",
+      "section": "技能编写与测试",
+      "level": "Advanced"
+    },
+    {
+      "slug": "25-gong-xian-zhi-nan-pr-yao-qiu-yu-94-ju-jue-lu-de-sheng-cun-fa-ze",
+      "title": "贡献指南：PR 要求与 94% 拒绝率的生存法则",
+      "file": "25-gong-xian-zhi-nan-pr-yao-qiu-yu-94-ju-jue-lu-de-sheng-cun-fa-ze.md",
+      "section": "贡献与测试",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "26-ce-shi-ti-xi-cha-jian-ji-cheng-ce-shi-yu-ji-neng-xing-wei-ping-gu",
+      "title": "测试体系：插件集成测试与技能行为评估",
+      "file": "26-ce-shi-ti-xi-cha-jian-ji-cheng-ce-shi-yu-ji-neng-xing-wei-ping-gu.md",
+      "section": "贡献与测试",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "27-ban-ben-fa-bu-yu-bian-geng-ri-zhi-jie-du",
+      "title": "版本发布与变更日志解读",
+      "file": "27-ban-ben-fa-bu-yu-bian-geng-ri-zhi-jie-du.md",
+      "section": "贡献与测试",
+      "level": "Intermediate"
+    }
+  ]
+}
